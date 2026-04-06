@@ -1,3 +1,3 @@
 # Aprendendo Git e Github
 
-<h1>Hello, World!</h1>
+<h3>Este repositório tem o objetivo de treinar os comandos git push e git pull</h3>
